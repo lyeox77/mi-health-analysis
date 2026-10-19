@@ -1,0 +1,622 @@
+{
+  "schema_version": "1.0",
+  "source": "mi_fitness_data_bridge",
+  "synthetic": true,
+  "records": {
+    "sleep": [
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-01T01:08:00+08:00",
+        "end_at": "2026-10-01T07:14:00+08:00",
+        "time_asleep_minutes": 351,
+        "is_nap": false,
+        "sleep_score": 88
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-02T01:47:00+08:00",
+        "end_at": "2026-10-02T08:09:00+08:00",
+        "time_asleep_minutes": 367,
+        "is_nap": false,
+        "sleep_score": 83
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-03T01:58:00+08:00",
+        "end_at": "2026-10-03T08:04:00+08:00",
+        "time_asleep_minutes": 351,
+        "is_nap": false,
+        "sleep_score": 82
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-03T23:34:00+08:00",
+        "end_at": "2026-10-04T07:28:00+08:00",
+        "time_asleep_minutes": 459,
+        "is_nap": false,
+        "sleep_score": 83
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-05T00:27:00+08:00",
+        "end_at": "2026-10-05T07:54:00+08:00",
+        "time_asleep_minutes": 432,
+        "is_nap": false,
+        "sleep_score": null
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-05T23:34:00+08:00",
+        "end_at": "2026-10-06T07:11:00+08:00",
+        "time_asleep_minutes": 442,
+        "is_nap": false,
+        "sleep_score": 68
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-08T00:05:00+08:00",
+        "end_at": "2026-10-08T07:37:00+08:00",
+        "time_asleep_minutes": 437,
+        "is_nap": false,
+        "sleep_score": 83
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-09T01:17:00+08:00",
+        "end_at": "2026-10-09T07:37:00+08:00",
+        "time_asleep_minutes": 365,
+        "is_nap": false,
+        "sleep_score": 92
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-10T01:05:00+08:00",
+        "end_at": "2026-10-10T07:46:00+08:00",
+        "time_asleep_minutes": 386,
+        "is_nap": false,
+        "sleep_score": 76
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-11T00:26:00+08:00",
+        "end_at": "2026-10-11T07:09:00+08:00",
+        "time_asleep_minutes": 388,
+        "is_nap": false,
+        "sleep_score": 82
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-12T00:05:00+08:00",
+        "end_at": "2026-10-12T07:28:00+08:00",
+        "time_asleep_minutes": 428,
+        "is_nap": false,
+        "sleep_score": 91
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-13T00:14:00+08:00",
+        "end_at": "2026-10-13T07:08:00+08:00",
+        "time_asleep_minutes": 399,
+        "is_nap": false,
+        "sleep_score": 94
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-14T00:22:00+08:00",
+        "end_at": "2026-10-14T08:03:00+08:00",
+        "time_asleep_minutes": 446,
+        "is_nap": false,
+        "sleep_score": 93
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "start_at": "2026-10-01T01:08:00+08:00",
+        "end_at": "2026-10-01T07:14:00+08:00",
+        "time_asleep_minutes": 351,
+        "is_nap": false,
+        "sleep_score": 88
+      }
+    ],
+    "daily_activity": [
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-01",
+        "steps": 7006,
+        "active_kcal": 225
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-02",
+        "steps": 9412,
+        "active_kcal": 116
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-03",
+        "steps": 5757,
+        "active_kcal": 466
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-04",
+        "steps": 7057,
+        "active_kcal": 514
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-05",
+        "steps": 7052,
+        "active_kcal": 179
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-06",
+        "steps": 8381,
+        "active_kcal": 533
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-07",
+        "steps": 10027,
+        "active_kcal": 374
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-08",
+        "steps": 5650,
+        "active_kcal": 460
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-09",
+        "steps": 6314,
+        "active_kcal": 543
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-11",
+        "steps": 6510,
+        "active_kcal": 183
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-12",
+        "steps": 3416,
+        "active_kcal": 217
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-13",
+        "steps": 11792,
+        "active_kcal": 548
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "date": "2026-10-14",
+        "steps": 13032,
+        "active_kcal": 334
+      }
+    ],
+    "heart_rate": [
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-01T08:00:00+08:00",
+        "bpm": 69,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-01T12:00:00+08:00",
+        "bpm": 63,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-01T18:00:00+08:00",
+        "bpm": 102,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-01T22:00:00+08:00",
+        "bpm": 61,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-02T08:00:00+08:00",
+        "bpm": 56,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-02T12:00:00+08:00",
+        "bpm": 60,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-02T18:00:00+08:00",
+        "bpm": 68,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-02T22:00:00+08:00",
+        "bpm": 69,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-03T08:00:00+08:00",
+        "bpm": 96,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-03T12:00:00+08:00",
+        "bpm": 99,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-03T18:00:00+08:00",
+        "bpm": 89,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-03T22:00:00+08:00",
+        "bpm": 81,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-04T08:00:00+08:00",
+        "bpm": 55,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-04T12:00:00+08:00",
+        "bpm": 103,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-04T18:00:00+08:00",
+        "bpm": 65,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-04T22:00:00+08:00",
+        "bpm": 99,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-05T08:00:00+08:00",
+        "bpm": 68,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-05T12:00:00+08:00",
+        "bpm": 103,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-05T18:00:00+08:00",
+        "bpm": 76,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-05T22:00:00+08:00",
+        "bpm": 61,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-06T08:00:00+08:00",
+        "bpm": 77,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-06T12:00:00+08:00",
+        "bpm": 93,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-06T18:00:00+08:00",
+        "bpm": 71,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-06T22:00:00+08:00",
+        "bpm": 57,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-07T08:00:00+08:00",
+        "bpm": 62,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-07T12:00:00+08:00",
+        "bpm": 79,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-07T18:00:00+08:00",
+        "bpm": 60,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-07T22:00:00+08:00",
+        "bpm": 90,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-08T08:00:00+08:00",
+        "bpm": 59,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-08T12:00:00+08:00",
+        "bpm": 57,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-08T18:00:00+08:00",
+        "bpm": 97,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-08T22:00:00+08:00",
+        "bpm": 69,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-09T08:00:00+08:00",
+        "bpm": 61,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-09T12:00:00+08:00",
+        "bpm": 79,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-09T18:00:00+08:00",
+        "bpm": 72,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-09T22:00:00+08:00",
+        "bpm": 84,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-10T08:00:00+08:00",
+        "bpm": 77,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-10T12:00:00+08:00",
+        "bpm": 68,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-10T18:00:00+08:00",
+        "bpm": 97,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-10T22:00:00+08:00",
+        "bpm": 72,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-11T08:00:00+08:00",
+        "bpm": 84,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-11T12:00:00+08:00",
+        "bpm": 79,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-11T18:00:00+08:00",
+        "bpm": 72,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-11T22:00:00+08:00",
+        "bpm": 95,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-12T08:00:00+08:00",
+        "bpm": 57,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-12T12:00:00+08:00",
+        "bpm": 75,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-12T18:00:00+08:00",
+        "bpm": 80,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-12T22:00:00+08:00",
+        "bpm": 72,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-13T08:00:00+08:00",
+        "bpm": 100,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-13T12:00:00+08:00",
+        "bpm": 75,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-13T18:00:00+08:00",
+        "bpm": 68,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-13T22:00:00+08:00",
+        "bpm": 96,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-14T08:00:00+08:00",
+        "bpm": 64,
+        "sample_type": "resting"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-14T12:00:00+08:00",
+        "bpm": 71,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-14T18:00:00+08:00",
+        "bpm": 63,
+        "sample_type": "passive"
+      },
+      {
+        "user_id": "SYNTHETIC_ACCOUNT",
+        "device_id": "SYNTHETIC_DEVICE",
+        "timestamp": "2026-10-14T22:00:00+08:00",
+        "bpm": 70,
+        "sample_type": "passive"
+      }
+    ]
+  }
+}
